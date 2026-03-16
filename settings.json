@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "chiragbishnoi.aternos.me",
     "port": 21276,
     "version": "1.21.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "/tp Technoblade 250 65 -456",
+        "/gamemode spectator",
+        "/tp Technoblade -891 72 -678"
       ]
     },
     "chat-log": true,
